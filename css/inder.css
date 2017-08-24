@@ -1,0 +1,128 @@
+header{
+	width: 100%;
+	height: .88rem;
+	background-color: #2480f8;
+	padding: .18rem .24rem;
+}
+/* .head-left{
+	width:  100%;
+	height: .52rem;
+	background-color: pink;
+	padding: .06rem 0;
+	display: block;
+} */
+.head-left{
+	width: .4rem;
+	height: .4rem;
+	border-radius: 50%;
+	background-color: #2a87ff;
+	border: .02rem solid #fff;	
+	float: left;
+	overflow: hidden;
+	margin-top: .05rem;
+} 
+.icon1{
+	width: .3rem;
+	height: .3rem;
+	margin-top: .03rem;
+	margin-left: .01rem;
+}
+.head-center{
+	height: .52rem;
+	width: 1.4rem;
+	/* background-color: seagreen; */
+	margin: 0 auto ;
+	text-align: center;
+	float: left;
+	margin-left: 2.5rem;
+
+}
+.zhongw{
+	font-size: .28rem;	
+	line-height: .26rem;
+	display: block;
+	color: #fff;
+	font-family: "苹方"
+
+}
+.yingw{
+	font-size: .1rem;
+	line-height: .12rem;
+	display: block;
+	margin-top: .05rem;
+	color: #fff;
+}
+.zuohua{
+	width: .5rem;
+	height: .02rem;
+	background-color: #fff;
+	float: left;
+	margin-top: .04rem;
+}
+.zhonghua{
+	width: .3rem;
+	height: .04rem;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: .04rem;
+	float: left;
+	margin-left: .05rem;
+
+}
+.youhua{
+	width: .5rem;
+	height: .02rem;
+	background-color: #fff;
+	float: left;
+	margin-top: .04rem;
+	margin-left: .05rem;
+}
+.head-right{
+	width: .4rem;
+	height: .4rem;
+	border-radius: 50%;
+	background-color: #2a87ff;
+	border: .02rem solid #fff;	
+	float: left;
+	overflow: hidden;
+	margin-top: .05rem;
+	display: block;
+	margin-left: 2.3rem;
+}
+.icon2{
+	width: .25rem;
+	height: .25rem;
+	margin-left: .05rem;
+	margin-top: .03rem;
+}
+#banner{
+	width: 100%;
+	height: 3.24rem;
+	background-color: orange;
+	padding-top: .12rem;
+}
+.banner-center{
+	height: 3rem;
+	width: 5.72rem;
+	background-color: yellow;
+	border-radius: 2%;
+	margin: 0 auto;	
+	overflow: hidden;
+	position: relative;
+
+}
+.banner1{
+	width: 6.02rem;
+	height: 3.3rem;
+	
+}
+.wenzi1{
+	font-size: .26rem;
+	color: #fff;
+	float: left;
+	position: absolute;	
+	top: 0.2rem;
+	left: 0.1rem;
+	font-family: "苹方"
+}
+

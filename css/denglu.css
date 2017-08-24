@@ -1,0 +1,274 @@
+.box{
+	width: 100%;
+	height: auto;
+	/* background-color: red; */
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	background-image: url('../img/loginbeijing.png');
+	background-size: 100% auto;
+	padding-top: .4rem;
+}
+header{
+	width: 100%;
+	height: .88rem;
+	/* background-color: yellow; */
+	padding: 0 .24rem;
+	overflow: hidden;
+}
+.head-back{
+	width: .46rem;
+	height: .46rem;
+	/* background-color: orange; */
+	margin-top: .21rem;
+	float: left;
+}
+.head-right{
+	float: right;
+	height: .46rem;
+	width: .99rem;
+	border: .01rem solid #fff;
+	margin-top: .2rem;
+	border-radius: .08rem;
+}
+.rihgtZhuce{
+	line-height: .46rem;
+	text-align: center;
+	font-family: "苹方";
+	font-size: .26rem;
+	color: #fff;
+	display: block;
+}
+
+.topwenzi{
+	height: .72rem;
+	width: 4.24rem;
+	margin: 0 auto ;
+	background-image: url('../img/dengluwenzi.png');
+	background-size: 100% auto;
+	margin-top: 1rem;
+
+
+}
+#login{
+	width: 5.25rem;
+	height: 5.25rem;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: 1.75rem;
+	border-radius: 0.08rem;
+	position: relative;
+	padding-top: .4rem;
+
+}
+.touxiang{
+	width: 1.55rem;
+	height: 1.55rem;
+	background-color: orange;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	top: -0.9rem;
+	border: .06rem solid #fff;
+}
+.tu{
+	border-radius: 50%;
+}
+
+.userbox{
+	width: 4.05rem;
+	height: .87rem;
+	/* background-color: yellow; */
+	margin: 0 auto;
+	margin-top: .3rem;
+	
+}
+.usertop{
+	width: 100%;
+	height: .3rem;
+	/* background-color: pink; */
+}
+.tubiao{
+	width: .26rem;
+	height: .26rem;
+	/* background-color: yellow; */
+	border-radius: 50%;
+	float: left;
+	margin-top: .01rem;
+}
+.username{
+	font-size: .24rem;
+	color: black;
+	display: block;
+	line-height: .3rem;
+	font-family: "苹方";
+	margin-left: .1rem;
+	float: left;
+}
+
+
+
+.userbottom{
+	width: 100%;
+	height: .57rem;
+	background-color: yellow;
+}
+
+.userName{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.passbox{
+	width: 4.05rem;
+	height: .87rem;
+	/* background-color: yellow; */
+	margin: 0 auto;
+	margin-top: .3rem;	
+}
+.passtop{
+	width: 100%;
+	height: .3rem;
+	/* background-color: pink; */
+}
+
+.passtubiao{
+	width: .26rem;
+	height: .26rem;
+	/* background-color: yellow; */
+	border-radius: 50%;
+	float: left;
+	margin-top: .01rem;
+}
+.passworld{
+	font-size: .24rem;
+	color: black;
+	display: block;
+	line-height: .3rem;
+	font-family: "苹方";
+	margin-left: .1rem;
+	float: left;
+}
+.passbottom{
+	width: 100%;
+	height: .57rem;
+	/* background-color: yellow; */
+}
+.password{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.pass2box{
+	width: 4.05rem;
+	height: .87rem;
+	/* background-color: yellow; */
+	margin: 0 auto;
+	margin-top: .3rem;	
+}
+.pass2top{
+	width: 100%;
+	height: .3rem;
+	/* background-color: pink */;
+}
+
+.passtubiao2{
+	width: .26rem;
+	height: .26rem;
+	/* background-color: yellow; */
+	border-radius: 50%;
+	float: left;
+	margin-top: .01rem;
+}
+.passworld2{
+	font-size: .24rem;
+	color: black;
+	display: block;
+	line-height: .3rem;
+	font-family: "苹方";
+	margin-left: .1rem;
+	float: left;
+}
+.pass2bottom{
+	width: 100%;
+	height: .57rem;
+	/* background-color: yellow; */
+}
+.pass2word{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.mimadu{
+	width: 3.98rem;
+	height: .2rem;
+	/* background-color: pink; */
+	margin: 0 auto;
+	margin-top: .3rem;
+	padding-top: .05rem;
+	position: relative;
+}
+.nandutiao{
+	width: 100%;
+	height: .1rem;
+	/* margin-top: .01rem; */
+	background-color: #f3f300;
+	
+}
+.nanduyou{
+	width: 1.32rem;
+	height: .1rem;
+	background-color: #2217ff;
+	float: right;
+}
+.nanduyou{
+	width: 1.32rem;
+	height: .1rem;
+	background-color: #ce00ed;
+	float: right;
+	margin-right: 1.32rem;
+}
+.nandudian{
+	width: .18rem;
+	height: .18rem;
+	background-color: #fff;
+	border-radius: 50%;
+	margin: 0 auto;
+	border: .04rem solid #ce00ed;
+	position: absolute;
+	top: 0;
+	left: 2rem;
+}
+#anniu{
+	width: 3.48rem;
+	height: .8rem;
+	background-color: blue;
+	border-radius: .08rem;
+	position: absolute;
+	bottom: 3.6rem;
+	right: 1.95rem;
+}
+.zucewz{
+	font-family: "苹方";
+	font-size: .32rem;
+	text-align: center;
+	display: block;
+	color: #fff;
+	margin-top: .12rem;
+	line-height: .32rem;
+}
+.zuceyw{
+	font-family: "苹方";
+	font-size: .28rem;
+	text-align: center;
+	display: block;
+	color: #fff;
+	line-height: .28rem;
+}
